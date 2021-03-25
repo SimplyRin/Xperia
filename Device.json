@@ -1,0 +1,11 @@
+{
+	"2021": {
+		"Xperia PRO": ["XQ-AT52", "XQ-AT62"]
+	},
+	"2020": {
+		"Xperia 1 II": ["XQ-AT42", "XQ-AT51", "XQ-AT52", "XQ-AT72", "SO-51A", "SOG01"],
+		"Xperia 5 II": ["XQ-AS42", "XQ-AS52", "XQ-AS62", "XQ-AS72", "SO-52A", "SOG02", "A002SO"],
+		"Xperia 10 II": ["XQ-AU42", "XQ-AU51", "XQ-AU52", "SO-41A", "SOV43", "A001SO"],
+		"Xperia L4": ["XQ-AD51", "XQ-AD52"]
+	}
+}
